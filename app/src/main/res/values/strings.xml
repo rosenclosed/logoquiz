@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Logo Quiz</string>
+    <string name="text_button_skip">Lösen</string>
+    <string name="text_button_hint">Hinweis</string>
+    <string name="text_button_check">Prüfen</string>
+    <string name="toast_wrong_answer">Leider Falsch</string>
+    <string name="tv_hint_begin">Erster Buchstabe:\ </string>
+    <string name="toast_skip">Lösung:\ </string>
+</resources>
