@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Logo Quiz</string>
+    <string name="text_button_skip">Solutionner</string>
+    <string name="text_button_hint">Indication</string>
+    <string name="text_button_check">Vérifier</string>
+    <string name="toast_wrong_answer">Essayez encore!</string>
+    <string name="tv_hint_begin">"Première lettre: "</string>
+    <string name="toast_skip">"Solution: "</string>
+</resources>
