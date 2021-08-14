@@ -4,7 +4,7 @@ Errate die Namen der Firmen die hinter den Logos stecken!
 
 ## Installation
 
-1. Lade das neueste Release [hier](https://github.com/WilliamReed2004/logoquiz/releases) herunter. (Dateiname: de.reedwilliam2004.logoquiz-vx.x.x-xxxx-x.x.x.apk)
+1. Lade das neueste Release [hier](https://github.com/WilliamReed2004/logoquiz/releases) herunter. (Dateiname: de.reedwilliam2004.logoquiz-xxxx-x.x.x.apk)
 
 2. Überspiele die Datei auf dein Android-Telefon
 
